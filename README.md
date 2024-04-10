@@ -9,7 +9,9 @@
 
 ## CRUD Laravel
 
+Após criar o ambiente Laravel basta adicionar as pastas do repositório na pasta do projeto e substituir.<br>
+
 Database: crud_laravel<br>
 Tabela: usuarios
 
-![image](https://github.com/GiovanniMatos/CRUD_Laravel/assets/99231397/bdd26602-0bcd-4864-82f2-635b11102bbd)
+![Captura de tela 2024-04-08 044557](https://github.com/GiovanniMatos/CRUD_Laravel/assets/99231397/1593bc19-6c19-47ae-8916-6b9fa9161407)
