@@ -15,3 +15,7 @@ Database: crud_laravel<br>
 Tabela: usuarios
 
 ![Captura de tela 2024-04-08 044557](https://github.com/GiovanniMatos/CRUD_Laravel/assets/99231397/1593bc19-6c19-47ae-8916-6b9fa9161407)
+
+<b>OBS:</b><br>
+Laravel_CRUD-Routes (CRUD feito pelas Rotas)<br>
+Laravel_CRUD-Routes (CRUD feito pelo Crontroller)
