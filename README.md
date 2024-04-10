@@ -14,6 +14,8 @@ Após criar o ambiente Laravel basta adicionar as pastas do repositório na past
 Database: crud_laravel<br>
 Tabela: usuarios
 
+ (Create | Read | Update | Delete)
+
 ![Captura de tela 2024-04-08 044557](https://github.com/GiovanniMatos/CRUD_Laravel/assets/99231397/1593bc19-6c19-47ae-8916-6b9fa9161407)
 
 <b>OBS:</b><br>
